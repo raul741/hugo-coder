@@ -171,18 +171,17 @@ pre {
   code {
     display: inline-block;
     background-color: inherit;
-    color: inherit;
+    color: #FF6E00;
   }
 }
 
 code {
   font-family: $code-font-family;
   font-size: 1.6rem;
-  font-weight: 400;
+  font-weight: 800;
   border-radius: 0.6rem;
   padding: 0.3rem 0.6rem;
-  background-color: $darker-alt-bg-color;
-  color: $fg-color;
+  color: #FF6E00;
   @media only screen and (max-width: 768px) {
     font-size: 1.5rem;
   }
